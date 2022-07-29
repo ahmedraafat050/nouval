@@ -1,0 +1,16 @@
+.navbar .navbar-toggler,
+.navbar .navbar-toggler:focus,
+.navbar .navbar-toggler:hover {
+  color: blue;
+  border-color: transparent;
+  box-shadow: none;
+}
+
+.langing {
+  height: calc(100vh - 72px);
+}
+
+.contact img {
+  height: 600px;
+  width: 100%;
+}
